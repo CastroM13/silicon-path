@@ -120,3 +120,91 @@
 ### Topology:
  - Project: Topological Space Visualizer
     - Develop a tool that visualizes concepts from topology, such as open and closed sets, compactness, and continuity. Allow users to manipulate shapes and observe their properties.
+
+## Learning Resources
+ ### Websites
+- [Khan Academy - Arithmetic](https://www.khanacademy.org/math/arithmetic)
+- [Purplemath - Basic Math](http://www.purplemath.com/modules/index.htm)
+- [Khan Academy - Geometry](https://www.khanacademy.org/math/geometry)
+- [Math is Fun - Geometry](https://www.mathsisfun.com/geometry/index.html)
+- [Khan Academy - Algebra](https://www.khanacademy.org/math/algebra)
+- [Purplemath - Algebra](http://www.purplemath.com/modules/index.htm)
+- [Khan Academy - Functions](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86a7b7a4d59c1f76c2b)
+- [Math is Fun - 3D Geometry](https://www.mathsisfun.com/geometry/3d-geometry.html)
+- [Khan Academy - Trigonometry](https://www.khanacademy.org/math/trigonometry)
+- [Math is Fun - Trigonometry](https://www.mathsisfun.com/algebra/trigonometry.html)
+- [Khan Academy - Algebra II](https://www.khanacademy.org/math/algebra2)
+- [Khan Academy - Precalculus](https://www.khanacademy.org/math/precalculus)
+- [Khan Academy - Differential Calculus](https://www.khanacademy.org/math/differential-calculus)
+- [Khan Academy - Integral Calculus](https://www.khanacademy.org/math/integral-calculus)
+- [Khan Academy - Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
+- [MIT OpenCourseWare - Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
+- [Paul's Online Math Notes - Analytic Geometry](http://tutorial.math.lamar.edu/Classes/CalcI/CalcI.aspx)
+- [Khan Academy - Statistics and Probability](https://www.khanacademy.org/math/statistics-probability)
+- [Khan Academy - Differential Equations](https://www.khanacademy.org/math/differential-equations)
+- [Khan Academy - Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus)
+- [Abstract Algebra Course - MIT OpenCourseWare](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
+- 
+ ### Books
+ - **Basic Mathematics** by Serge Lang
+    - * Amazon: [https://www.amazon.com/Basic-Mathematics-Serge-Lang/dp/0387967877](https://www.amazon.com/Basic-Mathematics-Serge-Lang/dp/0387967877)
+
+ - **Geometry: A Comprehensive Course** by Dan Pedoe
+    - * Amazon: [https://www.amazon.com/Geometry-Comprehensive-Course-Dover-Mathematics/dp/0486658120](https://www.amazon.com/Geometry-Comprehensive-Course-Dover-Mathematics/dp/0486658120)
+
+ - **Algebra** by Israel M. Gelfand and Alexander Shen
+    - * Amazon: [https://www.amazon.com/Algebra-Israel-M-Gelfand/dp/0817636773](https://www.amazon.com/Algebra-Israel-M-Gelfand/dp/0817636773)
+
+ - **Functions and Graphs** by I.M. Gelfand and E.G. Zeer
+    - * Amazon: [https://www.amazon.com/Functions-Graphs-Dover-Books-Mathematics/dp/0486425649](https://www.amazon.com/Functions-Graphs-Dover-Books-Mathematics/dp/0486425649)
+
+ - **Geometry: Euclid and Beyond** by Robin Hartshorne
+    - * Amazon: [https://www.amazon.com/Geometry-Euclid-Beyond-Undergraduate-Mathematics/dp/0387986502](https://www.amazon.com/Geometry-Euclid-Beyond-Undergraduate-Mathematics/dp/0387986502)
+
+ - **Trigonometry** by I.M. Gelfand and Mark Saul
+    - * Amazon: [https://www.amazon.com/Trigonometry-I-M-Gelfand/dp/0817639144](https://www.amazon.com/Trigonometry-I-M-Gelfand/dp/0817639144)
+
+ - **Intermediate Algebra** by Margaret L. Lial, John Hornsby, and Terry I. Schneider
+    - * Amazon: [https://www.amazon.com/Intermediate-Algebra-Margaret-L-Lial/dp/0321127137](https://www.amazon.com/Intermediate-Algebra-Margaret-L-Lial/dp/0321127137)
+
+ - **Precalculus: Mathematics for Calculus** by James Stewart, Lothar Redlin, and Saleem Watson
+    - * Amazon: [https://www.amazon.com/Precalculus-Mathematics-Calculus-Standalone-Book/dp/1305071751](https://www.amazon.com/Precalculus-Mathematics-Calculus-Standalone-Book/dp/1305071751)
+
+ - **Calculus** by James Stewart
+    - * Amazon: [https://www.amazon.com/James-Stewart-Calculus/s?k=James+Stewart+Calculus](https://www.amazon.com/James-Stewart-Calculus/s?k=James+Stewart+Calculus)
+
+ - **Calculus** by Michael Spivak
+    - * Amazon: [https://www.amazon.com/Calculus-4th-Michael-Spivak/dp/0914098918](https://www.amazon.com/Calculus-4th-Michael-Spivak/dp/0914098918)
+
+ - **Linear Algebra Done Right** by Sheldon Axler
+    - * Amazon: [https://www.amazon.com/Linear-Algebra-Right-Undergraduate-Mathematics-ebook/dp/B00PULZWPC](https://www.amazon.com/Linear-Algebra-Right-Undergraduate-Mathematics-ebook/dp/B00PULZWPC)
+
+ - **Analytic Geometry** by Gordon Fuller and Dalton H. W. Lee
+    - * Amazon: [https://www.amazon.com/Analytic-geometry-Gordon-Fuller/dp/0201024144](https://www.amazon.com/Analytic-geometry-Gordon-Fuller/dp/0201024144)
+
+ - **Introduction to Probability** by Dimitri P. Bertsekas and John N. Tsitsiklis
+    - * Amazon: [https://www.amazon.com/Introduction-Probability-Dimitri-P-Bertsekas/dp/188652940X](https://www.amazon.com/Introduction-Probability-Dimitri-P-Bertsekas/dp/188652940X)
+
+ - **Elementary Differential Equations and Boundary Value Problems** by William E. Boyce and Richard C. DiPrima
+    - * Amazon: [https://www.amazon.com/Elementary-Differential-Equations-Boundary-Problems/dp/0471319996](https://www.amazon.com/Elementary-Differential-Equations-Boundary-Problems/dp/0471319996)
+
+ - **Multivariable Calculus** by James Stewart
+    - * Amazon: [https://www.amazon.com/Multivariable-Calculus-James-Stewart/dp/1305266641](https://www.amazon.com/Multivariable-Calculus-James-Stewart/dp/1305266641)
+
+ - **Elementary Number Theory** by David M. Burton
+    - * Amazon: [https://www.amazon.com/Elementary-Number-Theory-David-Burton/dp/0071244255](https://www.amazon.com/Elementary-Number-Theory-David-Burton/dp/0071244255)
+
+ - **Principles of Mathematical Analysis** by Walter Rudin
+    - * Amazon: [https://www.amazon.com/Principles-Mathematical-Analysis-International-Mathematics/dp/B00ADTO1WQ](https://www.amazon.com/Principles-Mathematical-Analysis-International-Mathematics/dp/B00ADTO1WQ)
+
+ - **Abstract Algebra** by David S. Dummit and Richard M. Foote
+    - * Amazon: [https://www.amazon.com/Books-Dummit-Foote/s?rh=n%3A283155%2Cp_27%3ADummit+Foote](https://www.amazon.com/Books-Dummit-Foote/s?rh=n%3A283155%2Cp_27%3ADummit+Foote)
+
+ - **Topology** by James R. Munkres
+    - * Amazon: [https://www.amazon.com/Topology-Munkres/dp/9332549532](https://www.amazon.com/Topology-Munkres/dp/9332549532)
+
+**Additional Tips:**
+* **Used bookstores:** Check local used bookstores or online marketplaces like AbeBooks for potential savings.
+* **Library loans:** If you're a student or member of a library, you might be able to borrow some of these books for free.
+* **E-books:** Many of these books are available as e-books, which can be more convenient and sometimes less expensive.
+
